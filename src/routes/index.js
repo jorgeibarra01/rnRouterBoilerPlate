@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 import {Route, Switch} from 'react-router-native'; 
-import Home from './screens/Home/Home'; 
+import Home from './screens/Home'; 
 
 export const Routes = () =>  {
     return (
